@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jQxzmn3DzS3YWG4XqC/Wuop4N6qDTnoUz0HEIIlyDlpz3t/hvNrofH1e2brq6AqJXQmjxMpICXgaPv9XxK7/6w==",
+  "success": true,
+  "projectFilePath": "D:\\ASPNetCoreEngin\\ASPNetCoreNorthwindProject\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Fikret\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
