@@ -1,0 +1,14 @@
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
