@@ -106,8 +106,6 @@ D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\bin\Debug\netcoreapp3.1\r
 D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.csproj.CoreCompileInputs.cache
-D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.MvcApplicationPartsAssemblyInfo.cache
 D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -157,3 +155,10 @@ D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\bin\Debug\netcoreapp3.1\E
 D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
 D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
 D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Complete.cshtml.g.cs
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.csproj.CoreCompileInputs.cache
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.MvcApplicationPartsAssemblyInfo.cs
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\MvcWebUI\obj\Debug\netcoreapp3.1\MvcWebUI.MvcApplicationPartsAssemblyInfo.cache

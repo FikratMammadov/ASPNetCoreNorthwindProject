@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IDjlG5Ij9ewMZIS/MP4/2ZJCxfuM/EEsowFaCoDRs9aZcQhkwGARV0ccKgmV4uwcnt+e0TwGrtaNcN2UQTSxow==",
+  "dgSpecHash": "1qnceuJ+h5dws8OTxhaS4WHbr6ajF6W70WlEZB4EcqK5OlPji31SVm0Ssw3xTOs5V2q+Gli0f5bAxCo23F+0aA==",
   "success": true,
   "projectFilePath": "D:\\ASPNetCoreEngin\\ASPNetCoreNorthwindProject\\MvcWebUI\\MvcWebUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Fikret\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\Fikret\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\Fikret\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",

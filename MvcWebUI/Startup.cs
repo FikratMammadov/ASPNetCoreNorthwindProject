@@ -14,6 +14,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MvcWebUI.Helpers;
+using FluentValidation;
+using FluentValidation.AspNetCore;
+using System.Reflection;
 
 namespace MvcWebUI
 {
@@ -29,7 +32,9 @@ namespace MvcWebUI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+            services.AddControllersWithViews()
+                .AddFluentValidation(option =>
+                option.RegisterValidatorsFromAssembly(Assembly.GetExecutingAssembly()));
             services.AddSingleton<IProductService, ProductManager>();
             services.AddSingleton<IProductDal, EfProductDal>();
             services.AddSingleton<ICategoryService, CategoryManager>();
@@ -38,6 +43,8 @@ namespace MvcWebUI
             services.AddScoped<ICartSessionHelper, CartSessionHelper>();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddSession();  
+
+             
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
