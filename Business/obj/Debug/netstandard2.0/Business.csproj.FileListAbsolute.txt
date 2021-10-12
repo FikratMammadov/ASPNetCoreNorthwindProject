@@ -7,3 +7,10 @@ D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\Business\obj\Debug\netstandard2.0\
 D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
 D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\Business\obj\Debug\netstandard2.0\Business.dll
 D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\Business\obj\Debug\netstandard2.0\Business.pdb
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\Business\bin\Debug\netstandard2.0\Core.dll
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\Business\bin\Debug\netstandard2.0\Entities.dll
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\Business\bin\Debug\netstandard2.0\Core.pdb
+D:\ASPNetCoreEngin\ASPNetCoreNorthwindProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
